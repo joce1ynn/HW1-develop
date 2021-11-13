@@ -8,7 +8,7 @@ This website provides companies with SEO, management and marketing strategies. T
 * CSS
 
 ## Website
-https://joce1ynn.github.io/HW1-develop/
+https://joce1ynn.github.io/code-refactor-develop/
 
 ## Website Screenshot
 ![Screenshot](/assets/images/Horiseon.png)
